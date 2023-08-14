@@ -1,6 +1,6 @@
----
-Deciphering Online Consumer Behaviour: A Network Analysis and Multivariate Time Series Study on Amazon Reviews
----
+
+# Deciphering Online Consumer Behaviour: A Network Analysis and Multivariate Time Series Study on Amazon Reviews
+
 
 The code used for this thesis is in the following 4 Jupyter notebooks and it is structured as described bellow:
 
